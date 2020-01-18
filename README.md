@@ -17,3 +17,4 @@ git : https://github.com/AlBaneo93/jaffy.git <br>
 vscode : https://code.visualstudio.com <br>
 zulu : https://kr.azul.com/downloads/zulu-community/?&architecture=x86-64-bit&package=jdk <br>
 openjdk : https://openjdk.java.net/install/ <br>
+devdocs : https://devdocs.io/openjdk~8/ (API 문서) <br>
