@@ -1,6 +1,6 @@
 # Java Study in ssafy (a.k.a jaffy)
 
-## 진행 방법
+## How to progress
 1. 하루에 한번 과제가 깃에 올라갑니다
 2. 과제를 보고 수행한 후 깃에 pull request를 요청합니다.
 3. pull request 요청 후 그룹 채팅엥 확인요청을 합니다
